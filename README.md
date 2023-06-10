@@ -1,4 +1,4 @@
-![logo](https://github.com/shivammishra92/shivammishra92/blob/main/SHIVAM%20MISHRA%20(1).png)
+![logo](https://github.com/shivammishra92/blob/main/SHIVAM%20MISHRA%20(1).png)
 <h1 align="center">Hi 👋, I'm Shivam Mishra</h1>
 <h3 align="center">A passionate and dedicated frontend learner from India</h3>
 <img align = "right" alt="coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shivam-mishra-658720257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivam-mishra-658720257/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shivam-mishra-658720257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivam-mishra-658720257/" height="30" width="40" /></a>
 <a href="https://instagram.com/shivammishra_92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivammishra_92" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/salvaatore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="salvaatore" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/shivammishra_92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shivammishra_92" height="30" width="40" /></a>
