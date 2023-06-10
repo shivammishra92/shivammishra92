@@ -1,4 +1,4 @@
-![logo](https://github.com/shivammishra92/blob/main/SHIVAM%20MISHRA%20(1).png)
+![logo](https://github.com/shivammishra92/shivammishra92/commit/642f844595773885f1f5a37bed25739332737d5f)
 <h1 align="center">Hi 👋, I'm Shivam Mishra</h1>
 <h3 align="center">A passionate and dedicated frontend learner from India</h3>
 <img align = "right" alt="coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
