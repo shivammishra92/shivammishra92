@@ -1,4 +1,3 @@
-![logo](https://github.com/shivammishra92/shivammishra92/commit/642f844595773885f1f5a37bed25739332737d5f)
 <h1 align="center">Hi 👋, I'm Shivam Mishra</h1>
 <h3 align="center">A passionate and dedicated frontend learner from India</h3>
 <img align = "right" alt="coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
@@ -13,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shivam-mishra-658720257/" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/linkedin-in-logo-png-1.png" alt="https://www.linkedin.com/in/shivam-mishra-658720257/" height="60" width="55" /></a>
-<a href="https://instagram.com/shivammishra_92" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-stunning-instagram-logo-vector-download-for-new-7.png" alt="shivammishra_92" height="50" width="45" /></a>
+<a href="https://instagram.com/im_mishrashivam" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-stunning-instagram-logo-vector-download-for-new-7.png" alt="shivammishra_92" height="50" width="45" /></a>
 <a href="https://www.leetcode.com/salvaatore" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="salvaatore" height="60" width="55" /></a>
 <a href="https://auth.geeksforgeeks.org/user/shivammishra_92" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" alt="shivammishra_92" height="80" width="55" /></a>
 </p>
