@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/shivam-mishra-658720257/" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/linkedin-in-logo-png-1.png" alt="https://www.linkedin.com/in/shivam-mishra-658720257/" height="60" width="55" /></a>
 <a href="https://instagram.com/im_mishrashivam" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-stunning-instagram-logo-vector-download-for-new-7.png" alt="shivammishra_92" height="50" width="45" /></a>
 <a href="https://www.leetcode.com/salvaatore" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="salvaatore" height="60" width="55" /></a>
-<a href="https://auth.geeksforgeeks.org/user/shivammishra_92" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" alt="shivammishra_92" height="80" width="55" /></a>
+<a href="https://auth.geeksforgeeks.org/user/shivammishra_92" target="blank"><img align="center" src="https://www.svgrepo.com/show/330494/geeksforgeeks.svg" alt="shivammishra_92" height="80" width="80" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
