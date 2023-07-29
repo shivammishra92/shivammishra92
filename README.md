@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **shivam552mishra@gmail.com**
 
-- ⚡ Fun fact **I think I'm dark humorous😅😉**
+- ⚡ Fun fact **: I think I'm dark humorous😅😉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
