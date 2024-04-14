@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DSA and Full Stack Web Dev**
 
-- 📫 How to reach me **shivam552mishra@gmail.com**
+- 📫 How to reach me **mishrashivam.work@gmail.com**
 
 - ⚡ Fun fact **: I think I'm dark humorous😅😉**
 
