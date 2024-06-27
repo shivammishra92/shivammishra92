@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam Mishra</h1>
-<h3 align="center">A passionate and dedicated frontend learner from India</h3>
+<h3 align="center">A passionate and dedicated Developer from India</h3>
 <img align = "right" alt="coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivammishra92&label=Profile%20views&color=0e75b6&style=flat" alt="shivammishra92" /> </p>
 
